@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS examples</title>
+    <link rel-"stylesheet" href-"style.css"> <!-- Link to external CSS file-->
+</head>
+<body>
+    <h1>Welcome to My CSS Example</h1>
+    <p>This is a simple example to demostrate CSS styling.</p>
+    <div class-"box">Box Content</div>
+    <title> body{
+        font-family: Arial , sans-serif; background-color: #f0f0f0; 
+     color: #333;
+     padding: 20px;}
+     h1{
+        color:aqua;}
+        p{
+            font-size: 18px;
+            lined-height: 1.5;}
+            .box{
+                background-color:pink;
+                color:blueviolet;
+                padding: 10px;
+                margin-top: 20px;
+                border-radius: 5px;
+            }
+            <img src=""C:\Users\anath\Desktop\DCIM\Camera\20230112_094922.jpg""
+    </title>
+    
+</body>
+</html>
